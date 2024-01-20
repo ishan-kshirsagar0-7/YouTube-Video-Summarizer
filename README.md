@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project presents a sophisticated Python application for summarizing YouTube video transcripts. It combines the power of a quantized GGUF LLaMa-2 model, a RAG-based system using ChromaDB and Langchain, and the youtube-transcript-api. The application is designed to process, analyze, and condense content from YouTube videos into concise summaries.
+This project presents a sophisticated Python application for summarizing YouTube video transcripts. It combines the power of a quantized GGUF LLaMa-2 model (llama-2-13b-chat.Q4_K_M.gguf), a RAG-based system using ChromaDB and Langchain, and the youtube-transcript-api. The application is designed to process, analyze, and condense content from YouTube videos into concise summaries.
 
 ## Methodology
 
@@ -14,6 +14,8 @@ This project presents a sophisticated Python application for summarizing YouTube
 ## Demo
 
 TRY IT OUT : [CLICK HERE](https://huggingface.co/spaces/unpairedelectron07/YT_Video_Summarizer)
+
+**Note** : The demo on HuggingFace takes a while to generate summary, so if you need faster results, clone this repository, download the "llama-2-13b-chat.Q4_K_M.gguf" model from HuggingFace and run "app.py" locally.
 
 ## Outputs
 
