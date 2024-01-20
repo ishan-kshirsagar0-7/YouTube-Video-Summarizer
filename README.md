@@ -6,11 +6,11 @@ This project presents a sophisticated Python application for summarizing YouTube
 
 ## Methodology
 
-**GGUF LLaMa-2 Model**: Employed a quantized version of the LLaMa-2 model, optimized for efficient processing and accurate summarization.\
+**GGUF LLaMa-2 Model**: Employed a quantized version of the LLaMa-2 model, optimized for efficient processing and accurate summarization.
 
-**RAG-based System with ChromaDB**: Integrated a Retrieval-Augmented Generation (RAG) system using ChromaDB to enhance the summarization process.\
+**RAG-based System with ChromaDB**: Integrated a Retrieval-Augmented Generation (RAG) system using ChromaDB to enhance the summarization process.
 
-**Langchain Integration**: Leveraged Langchain for its powerful NLP capabilities, aiding in effective language understanding and generation.\
+**Langchain Integration**: Leveraged Langchain for its powerful NLP capabilities, aiding in effective language understanding and generation.
 
 **YouTube Transcript API**: Utilized youtube-transcript-api to fetch the textual content of YouTube videos for processing.
 
