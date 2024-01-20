@@ -37,7 +37,7 @@ We can clearly see that this tool managed to summarize even a 30 minute long vid
 **3. Transcript Extraction**:  Utilization of youtube-transcript-api to retrieve YouTube video transcripts.\
 **4. RAG Based Summarization**: Implementation of a RAG system with ChromaDB for efficient and accurate content summarization.\
 **5. User Interface**: Creation of a Gradio-based interactive interface for easy user interaction and summarization requests.\
-**6. PDF Generation**: Converting the summarized content into PDF format for user accessibility and convenience.\
+**6. PDF Generation**: Converting the summarized content into PDF format for user accessibility and convenience.
 
 ## Results
 
