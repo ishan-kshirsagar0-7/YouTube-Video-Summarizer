@@ -1,0 +1,11 @@
+ctransformers
+langchain
+langchain_community
+gradio
+fpdf2
+chromadb
+youtube-transcript-api
+sentence_transformers
+pypdf
+PyPDF2
+torch
