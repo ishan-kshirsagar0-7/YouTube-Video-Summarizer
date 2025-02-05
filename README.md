@@ -22,10 +22,10 @@ TRY IT OUT : [CLICK HERE](https://huggingface.co/spaces/unpairedelectron07/YT_Vi
 
 ## Outputs
 
-![error](https://i.ibb.co/WPmQ0Jh/languages.jpg)
+![ytvsop1](https://github.com/user-attachments/assets/b1c0d884-997a-42f9-8eb5-50c5724aace0)
 The video in the above screenshot is [Every Programming Language Ever Explained in 15 Minutes](https://www.youtube.com/watch?v=ajIcjx0PeYU) by **Flash Bytes**.
 
-![error](https://i.ibb.co/v4NWkmV/prisoner.jpg)
+![ytvsop2](https://github.com/user-attachments/assets/00f2dac5-946c-42b0-a580-5bf2f1648da0)
 The video in the above screenshot is [What The Prisoner's Dilemma Reveals About Life, The Universe, and Everything](https://www.youtube.com/watch?v=mScpHTIi-kM&t=3s) by **Veritasium**.
 
 We can clearly see that this tool managed to summarize even a 30 minute long video in under 5 bullet points.
